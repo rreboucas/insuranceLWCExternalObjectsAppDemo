@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Claim Management</label>
+    <navType>Console</navType>
+    <tabs>standard-Case</tabs>
+    <tabs>Beneficiaries__x</tabs>
+    <tabs>Claims__x</tabs>
+    <tabs>Policies__x</tabs>
+    <tabs>Products__x</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Contact</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Redwoods_Insurance_UtilityBar</utilityBar>
+    <workspaceConfig>
+        <mappings>
+            <tab>Beneficiaries__x</tab>
+        </mappings>
+        <mappings>
+            <tab>Claims__x</tab>
+        </mappings>
+        <mappings>
+            <tab>Policies__x</tab>
+        </mappings>
+        <mappings>
+            <tab>Products__x</tab>
+        </mappings>
+        <mappings>
+            <tab>standard-Account</tab>
+        </mappings>
+        <mappings>
+            <fieldName>ContactId</fieldName>
+            <tab>standard-Case</tab>
+        </mappings>
+        <mappings>
+            <tab>standard-Contact</tab>
+        </mappings>
+    </workspaceConfig>
+</CustomApplication>

@@ -1,0 +1,1952 @@
+[
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1582737224714,
+            "changeTime": 1582737224714,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1582737224714,
+            "changeTime": 1582737224714,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1582737224745,
+            "changeTime": 1582737224745,
+            "contentHash": "1f68819aa9a33faff7fa69adfff7d5c9fa144916",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1582737224715,
+            "changeTime": 1582737224715,
+            "contentHash": "4b739ab5c42058fc9f6faec15d33434d2cc2bb29",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/classes/IncidentController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/classes/IncidentController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2355,
+            "modifiedTime": 1582737224714,
+            "changeTime": 1582737224714,
+            "contentHash": "f40106aa4361e0394db0f642d19d544903ad874b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/classes/IncidentController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/classes/IncidentController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 171,
+            "modifiedTime": 1582737224714,
+            "changeTime": 1582737224714,
+            "contentHash": "6f16412e36fdb3dd95165ab25854cfb917531258",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/classes/IncidentControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/classes/IncidentControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1346,
+            "modifiedTime": 1582737224714,
+            "changeTime": 1582737224714,
+            "contentHash": "beed1755f66ad784a643213689fffad8dfb5e41b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/classes/IncidentControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/classes/IncidentControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 171,
+            "modifiedTime": 1582737224715,
+            "changeTime": 1582737224715,
+            "contentHash": "6f16412e36fdb3dd95165ab25854cfb917531258",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/duplicateRules",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/duplicateRules",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1582737224715,
+            "changeTime": 1582737224715,
+            "contentHash": "3e060ced2f730c70fe6971af59e8fea2035a082f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/duplicateRules/Contact.Standard_Contact_Duplicate_Rule.duplicateRule-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/duplicateRules/Contact.Standard_Contact_Duplicate_Rule.duplicateRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 877,
+            "modifiedTime": 1582737224715,
+            "changeTime": 1582737224715,
+            "contentHash": "a1889b2d217f655538aecc5465958e32aa400f02",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1582737224715,
+            "changeTime": 1582737224715,
+            "contentHash": "180d0f04d02e81909de7e1450e9bdecd16177141",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/flexipages/Case_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/flexipages/Case_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3535,
+            "modifiedTime": 1582737224715,
+            "changeTime": 1582737224715,
+            "contentHash": "5a91a6bb9a68c34a3a2b6f6790dd3e231c04f85f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1582737224716,
+            "changeTime": 1582737224716,
+            "contentHash": "cb00744104ec6a26ff1c5c59afc4a2ceecb5411b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/layouts/Case-Case Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/layouts/Case-Case Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12319,
+            "modifiedTime": 1582737224716,
+            "changeTime": 1582737224716,
+            "contentHash": "8496e73467040c5b5cc7182a1d1895d9252eb938",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/layouts/CaseContact__c-Case Contact Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/layouts/CaseContact__c-Case Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2177,
+            "modifiedTime": 1582737224716,
+            "changeTime": 1582737224716,
+            "contentHash": "c0e0aa87cdd05d2dfadf5b12a098745a0d23b455",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1582737405712,
+            "changeTime": 1582737405712,
+            "contentHash": "005dcb4a7ae141faa97b0b8a55cb3f04d0c94819",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentAudioPlayer",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentAudioPlayer",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1582737224717,
+            "changeTime": 1582737224717,
+            "contentHash": "eb741c87b873bd4899ed3b53f95e8fdd5bdfe353",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentAudioPlayer/incidentAudioPlayer.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentAudioPlayer/incidentAudioPlayer.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 27,
+            "modifiedTime": 1582737224717,
+            "changeTime": 1582737224717,
+            "contentHash": "6f9f2cc9046310f708d8951fa65456db55ab609b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentAudioPlayer/incidentAudioPlayer.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentAudioPlayer/incidentAudioPlayer.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 949,
+            "modifiedTime": 1582737224717,
+            "changeTime": 1582737224717,
+            "contentHash": "dfe8ac6fb86a35c85217747251dc9eefcf85a062",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentAudioPlayer/incidentAudioPlayer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentAudioPlayer/incidentAudioPlayer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 874,
+            "modifiedTime": 1582737224717,
+            "changeTime": 1582737224717,
+            "contentHash": "2c7703af421ff25babe8e71d10ed3a84504402c2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentAudioPlayer/incidentAudioPlayer.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentAudioPlayer/incidentAudioPlayer.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 479,
+            "modifiedTime": 1582737224717,
+            "changeTime": 1582737224717,
+            "contentHash": "84ea006d1873b6c839cc2791e8f5794020871c34",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentImageCarousel",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentImageCarousel",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1582737224718,
+            "changeTime": 1582737224718,
+            "contentHash": "e6b7cfdeaa4cb5d07e3505b934d47d6dee3332b2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentImageCarousel/incidentImageCarousel.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentImageCarousel/incidentImageCarousel.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 814,
+            "modifiedTime": 1582737224718,
+            "changeTime": 1582737224718,
+            "contentHash": "0cd282b4cbbba55ae317a996766b37877a0b6993",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentImageCarousel/incidentImageCarousel.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentImageCarousel/incidentImageCarousel.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 884,
+            "modifiedTime": 1582737224718,
+            "changeTime": 1582737224718,
+            "contentHash": "e1f2a1ef7d8163216ba9d750a5cb5d7a6510404c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentImageCarousel/incidentImageCarousel.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentImageCarousel/incidentImageCarousel.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 481,
+            "modifiedTime": 1582737224718,
+            "changeTime": 1582737224718,
+            "contentHash": "38d0d838037d84e6c80e170328fbd44d0c8fa7cb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentMap",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1582737224719,
+            "changeTime": 1582737224719,
+            "contentHash": "63f8e629d6692c0cff44486bb20e100299ca2ceb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentMap/incidentMap.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentMap/incidentMap.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 644,
+            "modifiedTime": 1582737224719,
+            "changeTime": 1582737224719,
+            "contentHash": "1cf67183db8f7de57247fcfee81db24f7505f5ab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentMap/incidentMap.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentMap/incidentMap.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 953,
+            "modifiedTime": 1582737224719,
+            "changeTime": 1582737224719,
+            "contentHash": "85cbb5fb571bf364fc929af54df78d71561c1f6b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentMap/incidentMap.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/lwc/incidentMap/incidentMap.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 584,
+            "modifiedTime": 1582737224719,
+            "changeTime": 1582737224719,
+            "contentHash": "ea654fc5b05db75a9b32c1d6aef6eaf2e31f5d35",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1582737224744,
+            "changeTime": 1582737224744,
+            "contentHash": "83785f6e62db1dbd04d44760173f2da8b772a5f6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1582737224729,
+            "changeTime": 1582737224729,
+            "contentHash": "a498c43f8a956c80702ae2955252b61594d034e7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/Account.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/Account.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3502,
+            "modifiedTime": 1582737224720,
+            "changeTime": 1582737224720,
+            "contentHash": "c1723f420e908f981ac7e74648c0b8a49494d38c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 1344,
+            "modifiedTime": 1582737224729,
+            "changeTime": 1582737224729,
+            "contentHash": "b48df501fcc3d72735c06933487f90b688aac41b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/AccountNumber.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/AccountNumber.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1582737224720,
+            "changeTime": 1582737224720,
+            "contentHash": "5d6af82c237081931d33a1e7a82bfc19d4f36760",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/AccountSource.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/AccountSource.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 229,
+            "modifiedTime": 1582737224720,
+            "changeTime": 1582737224720,
+            "contentHash": "ce4276211ca82a2925560b7ab65779c8970562a6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Active__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Active__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 756,
+            "modifiedTime": 1582737224720,
+            "changeTime": 1582737224720,
+            "contentHash": "8e090c4ac41052c16fdd7f4af6ee3c282630cd1b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/AnnualRevenue.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/AnnualRevenue.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1582737224721,
+            "changeTime": 1582737224721,
+            "contentHash": "d4d1376d014e789997a03afea249249579eb56d1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/BillingAddress.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/BillingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1582737224721,
+            "changeTime": 1582737224721,
+            "contentHash": "f19b89490040e0ad66e66243e4684dd930ba17ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/ChannelProgramLevelName.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/ChannelProgramLevelName.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 166,
+            "modifiedTime": 1582737224721,
+            "changeTime": 1582737224721,
+            "contentHash": "83854889a3021855e9befb273a50ed9bf015601a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/ChannelProgramName.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/ChannelProgramName.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 161,
+            "modifiedTime": 1582737224721,
+            "changeTime": 1582737224721,
+            "contentHash": "99a7ed493a2cbd0f2cd97a2d4e836285bb1fb8eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/CleanStatus.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/CleanStatus.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1582737224722,
+            "changeTime": 1582737224722,
+            "contentHash": "541945bbb2dbeda2b3afbfdc022266ebe9449473",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/CustomerPriority__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/CustomerPriority__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 945,
+            "modifiedTime": 1582737224722,
+            "changeTime": 1582737224722,
+            "contentHash": "f99250a6277085b1a5d00f54d1bde5344a933501",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/DandbCompanyId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/DandbCompanyId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1582737224722,
+            "changeTime": 1582737224722,
+            "contentHash": "69bb6cf36a221cf90e942d79090fd449e6f89c10",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Description.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1582737224722,
+            "changeTime": 1582737224722,
+            "contentHash": "0349e409d8802e8e0c2ac5ce4e70467e36783717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/DunsNumber.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/DunsNumber.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1582737224722,
+            "changeTime": 1582737224722,
+            "contentHash": "9ac6602500c51ac49c4427c441c531090fc08ddf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Fax.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Fax.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 193,
+            "modifiedTime": 1582737224723,
+            "changeTime": 1582737224723,
+            "contentHash": "c0b85f6573911895c25cca320ac34525847e41ee",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Industry.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Industry.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 224,
+            "modifiedTime": 1582737224723,
+            "changeTime": 1582737224723,
+            "contentHash": "a8b9b217ab9362788d8dbed5d2623d28bee1cd16",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/IsCustomerPortal.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/IsCustomerPortal.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 159,
+            "modifiedTime": 1582737224723,
+            "changeTime": 1582737224723,
+            "contentHash": "69caf43ca1a5368fc8fa4e1b7b7c23dbee17d90a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/IsPartner.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/IsPartner.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1582737224723,
+            "changeTime": 1582737224723,
+            "contentHash": "6e84ab15cee7fad18916e1841c333e979f8d7b82",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Jigsaw.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Jigsaw.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1582737224724,
+            "changeTime": 1582737224724,
+            "contentHash": "e233990b96c88976221312997090b833de3fcd1f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/NaicsCode.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/NaicsCode.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1582737224724,
+            "changeTime": 1582737224724,
+            "contentHash": "b0c58e26c820df058e4502fbe7bf508b4b10ec5e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/NaicsDesc.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/NaicsDesc.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1582737224724,
+            "changeTime": 1582737224724,
+            "contentHash": "e98d9881e79333ce3c3d346b7803b3da7bca8837",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Name.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 193,
+            "modifiedTime": 1582737224724,
+            "changeTime": 1582737224724,
+            "contentHash": "343c4b8e489f969445b54498e0cb5e60b41e5600",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/NumberOfEmployees.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/NumberOfEmployees.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 207,
+            "modifiedTime": 1582737224724,
+            "changeTime": 1582737224724,
+            "contentHash": "e427d686a50033bf745c80f4b495a0d7e12b2c30",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/NumberofLocations__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/NumberofLocations__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 416,
+            "modifiedTime": 1582737224725,
+            "changeTime": 1582737224725,
+            "contentHash": "3392fd32499f1294e54b8485785bc035bde2f568",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/OwnerId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 220,
+            "modifiedTime": 1582737224725,
+            "changeTime": 1582737224725,
+            "contentHash": "724122af483638ffc847257be6ded577b801c682",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Ownership.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Ownership.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1582737224725,
+            "changeTime": 1582737224725,
+            "contentHash": "5132aa9251a282615b1ebccf764fee4ce2e27e2e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/ParentId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/ParentId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1582737224725,
+            "changeTime": 1582737224725,
+            "contentHash": "85120b49de7cd98510dde0947b15d6ee3b704c7d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Phone.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Phone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1582737224726,
+            "changeTime": 1582737224726,
+            "contentHash": "816f388c1461681f2c10427b32820a8dc3690f19",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Rating.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Rating.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1582737224726,
+            "changeTime": 1582737224726,
+            "contentHash": "6997a94577078f56ca2828eb325417ca2a6e4af7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/SLAExpirationDate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/SLAExpirationDate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 337,
+            "modifiedTime": 1582737224726,
+            "changeTime": 1582737224726,
+            "contentHash": "c05b8bb409375fe79ddc63cdc2c36534d05d62f1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/SLASerialNumber__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/SLASerialNumber__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 384,
+            "modifiedTime": 1582737224726,
+            "changeTime": 1582737224726,
+            "contentHash": "868b6a1b568ce3e27316cac6b2e86c46cf2e3df9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/SLA__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/SLA__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1092,
+            "modifiedTime": 1582737224727,
+            "changeTime": 1582737224727,
+            "contentHash": "f6930d48f118317be41646e4a023e0f190c1dd30",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/ShippingAddress.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/ShippingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 205,
+            "modifiedTime": 1582737224727,
+            "changeTime": 1582737224727,
+            "contentHash": "ea9173b8afd332ea255609b3e4cd590d56f0558f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Sic.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Sic.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 193,
+            "modifiedTime": 1582737224727,
+            "changeTime": 1582737224727,
+            "contentHash": "d1c3f48a3900965d08b6886547fe51147ea9f7bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/SicDesc.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/SicDesc.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1582737224727,
+            "changeTime": 1582737224727,
+            "contentHash": "65856b88a5d71792cb1d1dd079a81dd618174190",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Site.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Site.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1582737224727,
+            "changeTime": 1582737224727,
+            "contentHash": "2860d6bd768dbf668498c2509e2c2c8f406b0e5d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/TickerSymbol.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/TickerSymbol.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 202,
+            "modifiedTime": 1582737224728,
+            "changeTime": 1582737224728,
+            "contentHash": "e409d79fd8a06283a99ced9d08bd12357aaa3b7c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Tradestyle.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Tradestyle.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1582737224728,
+            "changeTime": 1582737224728,
+            "contentHash": "3ed40df9965829aa539327a41ab727eeaaa09520",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Type.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Type.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 220,
+            "modifiedTime": 1582737224728,
+            "changeTime": 1582737224728,
+            "contentHash": "d24d3da84e95107603ab62495f82b91ceb20b7a0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/UpsellOpportunity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/UpsellOpportunity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 941,
+            "modifiedTime": 1582737224728,
+            "changeTime": 1582737224728,
+            "contentHash": "51d8dc9c0ef5f8671e9a28fda0ddaa25edd2f6b0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Website.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/Website.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1582737224729,
+            "changeTime": 1582737224729,
+            "contentHash": "7a7fc8b30600bce35778050c951b586cd29063ce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/YearStarted.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/fields/YearStarted.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1582737224729,
+            "changeTime": 1582737224729,
+            "contentHash": "639e9b9453d29f466bf66850b80c63e580ad38d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1582737224730,
+            "changeTime": 1582737224730,
+            "contentHash": "4da31241ac7f1110b1a5f076f08147c835ab3e05",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/listViews/AllAccounts.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/listViews/AllAccounts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1582737224729,
+            "changeTime": 1582737224729,
+            "contentHash": "90fc24413ba661f64071e8ebb8c354962677c5f2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/listViews/MyAccounts.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/listViews/MyAccounts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 214,
+            "modifiedTime": 1582737224729,
+            "changeTime": 1582737224729,
+            "contentHash": "9cd85c1f754f94f353696b4b1c1701983f68cadb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/listViews/NewLastWeek.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/listViews/NewLastWeek.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 367,
+            "modifiedTime": 1582737224730,
+            "changeTime": 1582737224730,
+            "contentHash": "2661708f1d0e6ca8e6f8677a9c16814e23448b3b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/listViews/NewThisWeek.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/listViews/NewThisWeek.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 367,
+            "modifiedTime": 1582737224730,
+            "changeTime": 1582737224730,
+            "contentHash": "d1a7f771d56aea2939ebd7d93b201696729624fe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/listViews/PlatinumandGoldSLACustomers.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Account/listViews/PlatinumandGoldSLACustomers.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 453,
+            "modifiedTime": 1582737224730,
+            "changeTime": 1582737224730,
+            "contentHash": "fe9facc67b0366e3cb167c3bc7674f3fa11df4c1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1582737224743,
+            "changeTime": 1582737224743,
+            "contentHash": "24012fb89a12626357b59b44deb0fdb7d51e8e8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/Case.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/Case.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4002,
+            "modifiedTime": 1582737224730,
+            "changeTime": 1582737224730,
+            "contentHash": "e8d2f18a1797b48cecb7b7d267bc604fe49aa60a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/compactLayouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1582737224731,
+            "changeTime": 1582737224731,
+            "contentHash": "0787a49540914843d42e7c0ea217353fef0ccb01",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/compactLayouts/mobile.compactLayout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/compactLayouts/mobile.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 430,
+            "modifiedTime": 1582737224731,
+            "changeTime": 1582737224731,
+            "contentHash": "cde4f93d344bf450e6e64128feebfcf2d5846472",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 1056,
+            "modifiedTime": 1582737224743,
+            "changeTime": 1582737224743,
+            "contentHash": "b187b23c06bbbf04ef2591855a1eafca992c7b3c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/AccountId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/AccountId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 303,
+            "modifiedTime": 1582737224731,
+            "changeTime": 1582737224731,
+            "contentHash": "a724d658da3a84c495fb32045898a86f5893c0c7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/AssetId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/AssetId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 300,
+            "modifiedTime": 1582737224731,
+            "changeTime": 1582737224731,
+            "contentHash": "39823304471b406ecb063342c31d7d943797b1f5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/BusinessHoursId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/BusinessHoursId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 309,
+            "modifiedTime": 1582737224732,
+            "changeTime": 1582737224732,
+            "contentHash": "980225b02c3763c9f3a3a2f17fbfbfe7170fe5b7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/ClosedDate.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/ClosedDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1582737224732,
+            "changeTime": 1582737224732,
+            "contentHash": "0d4ff4b8b47cf8e2b97343dec3a46d5729828e33",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Comments.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Comments.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1582737224732,
+            "changeTime": 1582737224732,
+            "contentHash": "274537d1577ddbdc60ac1737aaaeb99574fc38de",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/ContactEmail.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/ContactEmail.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1582737224732,
+            "changeTime": 1582737224732,
+            "contentHash": "4836bf6eb146c0872d2ceb5bbc28197c0f9b2660",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/ContactFax.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/ContactFax.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1582737224732,
+            "changeTime": 1582737224732,
+            "contentHash": "da9a9aec20d5293a54d6943abc771758f9407b7c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/ContactId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/ContactId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 302,
+            "modifiedTime": 1582737224733,
+            "changeTime": 1582737224733,
+            "contentHash": "23a856e0fb9e14eec20c4088c824709fa55c4304",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/ContactMobile.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/ContactMobile.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1582737224733,
+            "changeTime": 1582737224733,
+            "contentHash": "0ef6f38c369aa2b79a472a52ccf542bb36af27da",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/ContactPhone.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/ContactPhone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1582737224733,
+            "changeTime": 1582737224733,
+            "contentHash": "1a00e51bd047f2975b8a960a71a23a9745051950",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Description.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 280,
+            "modifiedTime": 1582737224733,
+            "changeTime": 1582737224733,
+            "contentHash": "7299fa6f6b57f9f19c445466a39baf097fed30ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/EngineeringReqNumber__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/EngineeringReqNumber__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 474,
+            "modifiedTime": 1582737224733,
+            "changeTime": 1582737224733,
+            "contentHash": "b321b9b529bd41bda7044caf4b71ffab71b7c0a9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Incident_Location_Txt__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Incident_Location_Txt__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 471,
+            "modifiedTime": 1582737224734,
+            "changeTime": 1582737224734,
+            "contentHash": "6c6b5647b176e6e32472142ac959752bc745d0b7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Incident_Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Incident_Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 514,
+            "modifiedTime": 1582737224734,
+            "changeTime": 1582737224734,
+            "contentHash": "fc04155e25c250ae7ec87ba30cec9187efaf503e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/IsClosedOnCreate.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/IsClosedOnCreate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 286,
+            "modifiedTime": 1582737224734,
+            "changeTime": 1582737224734,
+            "contentHash": "306174671806667d8d9729604303ded5ff87ed52",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/IsEscalated.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/IsEscalated.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 281,
+            "modifiedTime": 1582737224735,
+            "changeTime": 1582737224735,
+            "contentHash": "67c884d912db3be866089f20cc2844c91e46b261",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Origin.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Origin.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 301,
+            "modifiedTime": 1582737224735,
+            "changeTime": 1582737224735,
+            "contentHash": "4c55910e07df07b91db67cdc51a2b376e55be47e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/OwnerId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 299,
+            "modifiedTime": 1582737224735,
+            "changeTime": 1582737224735,
+            "contentHash": "99c95ffbdcc0877a7d889f873bd92af1e94f71af",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/ParentId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/ParentId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 302,
+            "modifiedTime": 1582737224735,
+            "changeTime": 1582737224735,
+            "contentHash": "e5e74b798f6bd3e93341438db67a08937a23b6dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/PotentialLiability__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/PotentialLiability__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 861,
+            "modifiedTime": 1582737224736,
+            "changeTime": 1582737224736,
+            "contentHash": "f99e79f03bc8ab6c3e50436261f870d1e820a4a1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Priority.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Priority.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 302,
+            "modifiedTime": 1582737224736,
+            "changeTime": 1582737224736,
+            "contentHash": "173c84d91d4b22ba0f0e5a249f78e2c74f440b9c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Product__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Product__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2000,
+            "modifiedTime": 1582737224740,
+            "changeTime": 1582737224740,
+            "contentHash": "fe01aeb48a8ed68a19b6ff839e9a460b777a623e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Reason.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Reason.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 301,
+            "modifiedTime": 1582737224741,
+            "changeTime": 1582737224741,
+            "contentHash": "cd6e679630fd4b335435a509f5ae66537c974317",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/SLAViolation__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/SLAViolation__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 849,
+            "modifiedTime": 1582737224741,
+            "changeTime": 1582737224741,
+            "contentHash": "5b4189c16dc5fda31a6bc079844d3c5c40a7334a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Status.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Status.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 301,
+            "modifiedTime": 1582737224741,
+            "changeTime": 1582737224741,
+            "contentHash": "1a67ed385fa3a9238b883a61724badf812ec80d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Subject.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Subject.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 276,
+            "modifiedTime": 1582737224741,
+            "changeTime": 1582737224741,
+            "contentHash": "a71608eb23c2b7134d8464e38c753a0e5118b714",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/SuppliedCompany.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/SuppliedCompany.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1582737224742,
+            "changeTime": 1582737224742,
+            "contentHash": "b8187e9636b8c4e6140c70f579049d9bc313586f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/SuppliedEmail.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/SuppliedEmail.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1582737224742,
+            "changeTime": 1582737224742,
+            "contentHash": "938db54a4dfc1aaefce51538b8897e555ea5ac31",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/SuppliedName.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/SuppliedName.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1582737224742,
+            "changeTime": 1582737224742,
+            "contentHash": "df1282baf89fce40188e3e8f31acec19313c6c06",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/SuppliedPhone.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/SuppliedPhone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1582737224742,
+            "changeTime": 1582737224742,
+            "contentHash": "bf48fb943a84faf309a2725a7ecac12378510639",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Type.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/fields/Type.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 299,
+            "modifiedTime": 1582737224743,
+            "changeTime": 1582737224743,
+            "contentHash": "a56df03219545dd0a8f9d9a5fa71e8665ae26cde",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1582737224744,
+            "changeTime": 1582737224744,
+            "contentHash": "bd02217c945f941fff3cfaf829447259cc282038",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/listViews/AllClosedCases.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/listViews/AllClosedCases.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 619,
+            "modifiedTime": 1582737224743,
+            "changeTime": 1582737224743,
+            "contentHash": "47f0e898f4ce6276224424c734be4caa6608ce60",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/listViews/All_Cases.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/listViews/All_Cases.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 489,
+            "modifiedTime": 1582737224743,
+            "changeTime": 1582737224743,
+            "contentHash": "57962f5961efd6fc1156423991755718583dbc1b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/listViews/MyCases.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/listViews/MyCases.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1582737224743,
+            "changeTime": 1582737224743,
+            "contentHash": "9a0683e0a528574ba867c3d2b82005fd7980472e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/listViews/MyOpenCases.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/Case/listViews/MyOpenCases.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 345,
+            "modifiedTime": 1582737224744,
+            "changeTime": 1582737224744,
+            "contentHash": "ae0703d7f23d71e96eef73ec5e996760408d9d13",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/CaseContact__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/CaseContact__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1582737224744,
+            "changeTime": 1582737224744,
+            "contentHash": "8d703925650d2d0ac183fd184f49474a1cc28a89",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/CaseContact__c/CaseContact__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/CaseContact__c/CaseContact__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2108,
+            "modifiedTime": 1582737224744,
+            "changeTime": 1582737224744,
+            "contentHash": "6dcd7254d75b0b0075c1287e0c003fc095b9a8ad",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/CaseContact__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/CaseContact__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1582737224744,
+            "changeTime": 1582737224744,
+            "contentHash": "a6d4541e951557ffb4cfce71a3e34a5905701a44",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/CaseContact__c/fields/Case__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/CaseContact__c/fields/Case__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 597,
+            "modifiedTime": 1582737224744,
+            "changeTime": 1582737224744,
+            "contentHash": "b587eaa8e63a7a66fb7c6641ff9f672c531c0678",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/CaseContact__c/fields/Contact__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/objects/CaseContact__c/fields/Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 606,
+            "modifiedTime": 1582737224745,
+            "changeTime": 1582737224745,
+            "contentHash": "60a02338038ea9c96176a349ea9558444cbe4617",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1582737224745,
+            "changeTime": 1582737224745,
+            "contentHash": "03622e2d82cc3119ec9bfc7fb8ed01149a86f29b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/permissionsets/redwoods_insurance_mobile.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/permissionsets/redwoods_insurance_mobile.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3093,
+            "modifiedTime": 1582737224745,
+            "changeTime": 1582737224745,
+            "contentHash": "0240fe90852f41b349838186f180df7315a8dacb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/roles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/roles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1582737224745,
+            "changeTime": 1582737224745,
+            "contentHash": "6259e44242e4826fef65d4f423dbb0d8147ded55",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/roles/CodeysCarInsurance_Adjuster.role-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce/force-app/main/default/roles/CodeysCarInsurance_Adjuster.role-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 361,
+            "modifiedTime": 1582737224745,
+            "changeTime": 1582737224745,
+            "contentHash": "eedcd24b3ecef111e864ca17c68ee4cf8702d49a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rreboucas/Library/Mobile Documents/com~apple~CloudDocs/SFDXProjects/GuideWireDemoOrg/redwoods-insurance/redwoods-insurance-salesforce",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1582737402922,
+            "changeTime": 1582737402922,
+            "contentHash": "f876ef4f539f417adf01762ac4c649677ea1b005",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

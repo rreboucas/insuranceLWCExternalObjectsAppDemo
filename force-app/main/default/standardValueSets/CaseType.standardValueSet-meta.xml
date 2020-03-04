@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Car Insurance</fullName>
+        <default>false</default>
+        <label>Car Insurance</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Residential Property Insurance</fullName>
+        <default>false</default>
+        <label>Residential Property Insurance</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Commercial Property Insurance</fullName>
+        <default>false</default>
+        <label>Commercial Property Insurance</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Flood Insurance</fullName>
+        <default>false</default>
+        <label>Flood Insurance</label>
+    </standardValue>
+</StandardValueSet>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>All</fullName>
+    <columns>ExternalId</columns>
+    <columns>Active__c</columns>
+    <columns>Id__c</columns>
+    <columns>NumberOfUnits__c</columns>
+    <columns>PolicyEndDate__c</columns>
+    <columns>PolicyHolderId__c</columns>
+    <columns>PolicyStartDate__c</columns>
+    <columns>ProductId__c</columns>
+    <columns>TotalCostAmount__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>All</label>
+</ListView>

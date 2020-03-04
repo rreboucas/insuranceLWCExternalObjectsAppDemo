@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Phone</fullName>
+        <default>false</default>
+        <label>Phone</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Redwoods Insurance Mobile App</fullName>
+        <default>false</default>
+        <label>Redwoods Insurance Mobile App</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Redwoods Insurance Customer Community</fullName>
+        <default>false</default>
+        <label>Redwoods Insurance Customer Community</label>
+    </standardValue>
+</StandardValueSet>

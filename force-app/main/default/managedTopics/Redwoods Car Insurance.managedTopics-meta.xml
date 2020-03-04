@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ManagedTopics xmlns="http://soap.sforce.com/2006/04/metadata">
+    <managedTopic>
+        <fullName>Redwoods Car Insurance.Featured:Claim Submission Details</fullName>
+        <managedTopicType>Featured</managedTopicType>
+        <name>Claim Submission Details</name>
+        <parentName/>
+        <position>1</position>
+        <topicDescription/>
+    </managedTopic>
+    <managedTopic>
+        <fullName>Redwoods Car Insurance.Featured:How To&#39;s</fullName>
+        <managedTopicType>Featured</managedTopicType>
+        <name>How To&#39;s</name>
+        <parentName/>
+        <position>2</position>
+        <topicDescription/>
+    </managedTopic>
+    <managedTopic>
+        <fullName>Redwoods Car Insurance.Featured:Updates</fullName>
+        <managedTopicType>Featured</managedTopicType>
+        <name>Updates</name>
+        <parentName/>
+        <position>0</position>
+        <topicDescription/>
+    </managedTopic>
+</ManagedTopics>
